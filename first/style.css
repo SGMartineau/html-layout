@@ -1,0 +1,40 @@
+.topbottom {
+    background-color: #282C2E;
+}
+
+.sideright {
+    background-color: #737A7D;
+    height: 570px;
+    width: 10%;
+    margin: 0 10% 0 0;
+    float: right;
+}
+
+.sideleft {
+    background-color: #737A7D;
+    height: 570px;
+    width: 10%;
+    margin: 0 0 0 10%;
+    float: left;
+}
+
+.middle {
+    background-color: #CCCCCC;
+    height: 500px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    height: 150px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer {
+    height: 70px;
+    width: 60%;
+    margin: 0  auto;
+    
+}
+
