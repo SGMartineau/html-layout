@@ -1,5 +1,6 @@
 .topbottom {
     background-color: #282C2E;
+    margin: 0 auto;  
 }
 
 .sideright {
@@ -28,13 +29,12 @@
 header {
     height: 150px;
     width: 80%;
-    margin: 0 auto;
+    
 }
 
 footer {
     height: 70px;
     width: 60%;
-    margin: 0  auto;
-    
+       
 }
 
