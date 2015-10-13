@@ -1,0 +1,24 @@
+.norm {
+    width: 60%;
+}
+
+.rainbow {
+    height: 100px;
+    margin: 0 auto;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.teal {
+    background-color: cyan;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
