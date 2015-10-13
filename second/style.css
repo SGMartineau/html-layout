@@ -1,0 +1,35 @@
+div {
+    width: 20%;
+}
+
+.bar {
+    height: 600px;
+}
+
+.left {
+    background-color: dodgerblue;
+    margin: 0 0 0 20%;
+    float: left;
+}
+
+.center {
+    background-color: cyan;
+    margin: 10% auto 0 auto;
+    
+}
+
+.right {
+    background-color: aquamarine;
+    height: 450px;
+    margin: 0 20% 0 0;
+    float: right;
+}
+
+.little {
+    background-color: red;
+    height: 150px;
+    color: white;
+    margin: -14.6% 20% 0 0;
+    float: right;
+    text-align: center;
+}
