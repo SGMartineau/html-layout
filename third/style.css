@@ -1,5 +1,6 @@
 .norm {
     width: 60%;
+    border: 1px solid grey;
 }
 
 .rainbow {
@@ -21,4 +22,29 @@
 
 .yellow {
     background-color: yellow;
+}
+
+.text {
+    background-color: beige;
+    text-align: center;
+    height: 100px;
+    margin: 0 auto;
+    padding-top: 35px;
+    padding-right: 5%;
+    padding-left: 5%;
+    width: 50%;
+    border: 1px solid grey;
+}
+
+.top {
+    background-color: grey;
+    height: 80px;
+    margin: 5% auto 0 auto;
+}
+
+.small {
+    width: 60px;
+    height: 60px;
+    background-color: dodgerblue;
+    margin: -38.7% 0 0 21%;   
 }
